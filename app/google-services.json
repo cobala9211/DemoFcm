@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "198943683284",
+    "firebase_url": "https://demofcm-1e4e3.firebaseio.com",
+    "project_id": "demofcm-1e4e3",
+    "storage_bucket": "demofcm-1e4e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198943683284:android:a20e0a907663b88a",
+        "android_client_info": {
+          "package_name": "com.example.asiantech.demofcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198943683284-605tqun5ovh88k1b6e3j4darhcvkdj5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCP-Bt7vc_-U7huaG0lHLKczqhPbxuicg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
